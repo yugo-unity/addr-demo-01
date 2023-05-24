@@ -133,6 +133,9 @@ namespace BoatAttack
 
         private void OnDrawGizmos()
         {
+            if (_pathPoint == null)
+                return;
+
             var c = Color.yellow;
             Gizmos.color = c;
 
