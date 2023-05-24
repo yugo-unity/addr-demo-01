@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -23,6 +23,8 @@ Material:
   m_Name: Clouds
   m_Shader: {fileID: -6465566751694194690, guid: db0b334ed7edc2149a5c784f34eefeba,
     type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - BOOLEAN_9A9F210EF4D44680B8F0CB7ACD99DFBB_ON
   m_InvalidKeywords:
@@ -35,6 +37,7 @@ Material:
   m_CustomRenderQueue: 3600
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -51,6 +54,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2DAsset_36aff2641eb842bfb8ac1025d9bb12f9_Out_0:
+        m_Texture: {fileID: 2800000, guid: 7247454f970266b4c8d99e1f01e15296, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_36aff2641eb842bfb8ac1025d9bb12f9_Out_0_Texture2D:
         m_Texture: {fileID: 2800000, guid: 7247454f970266b4c8d99e1f01e15296, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
