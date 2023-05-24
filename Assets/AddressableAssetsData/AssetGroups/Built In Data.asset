@@ -21,10 +21,12 @@ MonoBehaviour:
     m_Address: EditorSceneList
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: Resources
     m_Address: Resources
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 46fc3d082b08c4dacacae72d7016c235, type: 2}
   m_SchemaSet:
